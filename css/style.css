@@ -2,3 +2,11 @@ body
 {
     font-family: 'Source Sans Pro', sans-serif;
 }
+.banner-container
+{
+    background-color: gray;
+}
+.banner-column
+{
+    background-color:greenyellow;
+}
