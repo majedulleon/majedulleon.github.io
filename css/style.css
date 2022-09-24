@@ -1,20 +1,16 @@
-body
-{
-    font-family: 'Source Sans Pro', sans-serif;
+.m-body{
+    background-color: lightskyblue;
+    font-family: 'Fredoka', sans-serif;
 }
-.banner-container
-{
-    background-color: gray;
+.profile-container{
+background-color: aquamarine;
 }
-.banner-column
-{
-    background-color:greenyellow;
-}
-.navbar-container
-{
+.experience-container{
     background-color: cyan;
 }
-.about-container
-{
-    background-color: green;
+.circle{
+    background-color: greenyellow;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
 }
