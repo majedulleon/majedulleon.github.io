@@ -1,3 +1,5 @@
-# Bootstrap-CV
-My_Online_CV
-Trying to create a CV website for ME
+
+### Responsive Resume Cv
+ [Bedimcode](https://www.youtube.com/c/Bedimcode)
+
+![Resume cv](/preview.png)
