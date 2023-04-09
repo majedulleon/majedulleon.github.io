@@ -599,9 +599,9 @@ img {
     gap: 1.5rem;
   }
 
-  .home__button-movil {
+  /* .home__button-movil {
     display: none;
-  }
+  } */
 
   /* .references__container {
     grid-template-columns: repeat(2, 1fr);
